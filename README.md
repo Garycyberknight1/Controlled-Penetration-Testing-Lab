@@ -1,4 +1,3 @@
-<img width="541" height="390" alt="IOE drawio" src="https://github.com/user-attachments/assets/86355cc4-4020-4765-99a7-74605fa95135" />
 # Intelligent Offensive Engineering
 
 ## Objective
@@ -44,5 +43,22 @@ Developed an Intelligent Offensive Engineering framework designed to augment hum
 
 *Ref 1: Intelligent Offensive Engineering
 
-<img width="541" height="390" alt="IOE drawio" src="https://github.com/user-attachments/assets/661a38a7-7351-4ddc-a8f6-9e4d06451c6e" />
+<img width="541" height="390" alt="IOE2 drawio" src="https://github.com/user-attachments/assets/56f11ffe-5ff4-40fe-8875-df72c574d01a" />
+
+This project integrates Machine Learning Inference into an offensive security pipeline to optimize vulnerability exploitation within a secure, Host-Only virtual network. An Inference ML Model (Strategic Advisory AI) analyzes a Metasploitable 2 target to identify high-probability entry points and predict attack success rates. This Human-in-the-Loop architecture enables the Kali Linux operator to transition from trial-and-error to a data-driven strategy, executing attacks only after the AI determines the most successful approach.
+
+
+*Ref 2: Intelligent Offensive Engineering
+
+*Ref 3: Intelligent Offensive Engineering
+
+*Ref 4: Intelligent Offensive Engineering
+
+*Ref 5: Intelligent Offensive Engineering
+
+*Ref 6: Intelligent Offensive Engineering
+
+*Ref 7: Intelligent Offensive Engineering
+
+
 
