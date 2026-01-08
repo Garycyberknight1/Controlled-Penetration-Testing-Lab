@@ -1,8 +1,8 @@
-# Intelligent Offensive Engineering
+# ML-Assisted Offensive Security
 
 ## Objective
 
-Developed an Intelligent Offensive Engineering framework designed to augment human penetration testers by providing a predictive "advisory" layer during engagements. Using Metasploitable 2 as a target environment, I engineered a Human-in-the-Loop (HITL) system that performs Machine Learning Inference on network reconnaissance data to prioritize attack surfaces. The system serves as a strategic assistant, utilizing a pre-trained model to recommend high-probability exploit paths with associated confidence scores. This framework maintains strict human oversight by requiring manual authorization for any offensive actions, which are then programmatically executed via the Metasploit RPC API, ensuring safe and controlled validation of vulnerabilities.
+Developed an ML Assisted Offensive Security framework designed to augment human penetration testers by providing a predictive "advisory" layer during engagements. Using Metasploitable 2 as a target environment, I engineered a Human-in-the-Loop (HITL) system that performs Machine Learning Inference on network reconnaissance data to prioritize attack surfaces. The system serves as a strategic assistant, utilizing a pre-trained model to recommend high-probability exploit paths with associated confidence scores. This framework maintains strict human oversight by requiring manual authorization for any offensive actions, which are then programmatically executed via the Metasploit RPC API, ensuring safe and controlled validation of vulnerabilities.
 
 ### Skills Learned
 
