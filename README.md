@@ -1,4 +1,4 @@
-# ML-Assisted Offensive Security
+# Neural Assisted Penetration Testing
 
 ## Objective
 
