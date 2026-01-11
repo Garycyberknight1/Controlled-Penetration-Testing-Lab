@@ -48,7 +48,7 @@ This project integrates Machine Learning Inference into an offensive security pi
 <img width="628" height="403" alt="Screenshot 2026-01-08 180825" src="https://github.com/user-attachments/assets/59f17071-71d3-4ef1-a568-2fb838927c0c" />
 
 
-Constructed an automated decision engine by integrating a Python machine learning pipeline with the Metasploit Framework to streamline exploit selection. By using Pandas for feature engineering and msfrpcd for orchestration, I transformed raw Nmap reconnaissance data into actionable intelligence through a high-reliability XGBoost predictive model. Along the way, you mastered critical troubleshooting skills, resolving RPC connection failures by aligning ports and protocols to successfully bridge the gap between data science and offensive security.
+Constructed an automated decision engine by integrating a Python machine learning pipeline with the Metasploit Framework to streamline exploit selection. By using Pandas for feature engineering and msfrpcd for orchestration, I transformed raw Nmap reconnaissance data into actionable intelligence through a high-reliability XGBoost predictive model. Along the way, I mastered critical troubleshooting skills, resolving RPC connection failures by aligning ports and protocols to successfully bridge the gap between data science and offensive security.
 
 
 
