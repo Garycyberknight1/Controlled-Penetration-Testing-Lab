@@ -1,8 +1,9 @@
-# ML Security Testing & Attacking Simulation Project
+# Predictive Attack Surface Triage Framework
 
 ## Objective
 
-Developed an ML-Assisted Offensive Security framework designed to augment human penetration testers by providing a predictive "advisory" layer during engagements. Using Metasploitable 2 as a target environment, I engineered a Human-in-the-Loop (HITL) system that performs Machine Learning Inference on network reconnaissance data to prioritize attack surfaces. The system serves as a strategic assistant, utilizing a pre-trained model to recommend high-probability exploit paths with associated confidence scores. This framework maintains strict human oversight by requiring manual authorization for any offensive actions, which are then programmatically executed via the Metasploit RPC API, ensuring safe and controlled validation of vulnerabilities.
+
+Developed a data-driven penetration testing framework designed to transition offensive operations from manual trial-and-error to a predictive, orchestrated workflow. The system automates the bridge between raw reconnaissance and exploit validation by utilizing a multi-stage data pipeline.
 
 ### Skills Learned
 
@@ -11,7 +12,6 @@ Developed an ML-Assisted Offensive Security framework designed to augment human 
 - Algorithmic Logic: You developed a "Decision Engine" that filters and ranks potential exploits based on metadata (ranking, reliability, and service info).
 - Automated Data Processing: You utilized pandas to read local CSV feature files and loop through data points for automated analysis.
 - Metasploit RPC Management: You gained experience managing msfrpcd, including setting passwords, managing ports (55553), and configuring SSL/No-Database modes.
-- Exploit Matching: You learned to search for and select specific modules (like vsftpd_234_backdoor) based on version detection.
 - Service Version Identification: You used Nmap (-sV) to extract the "features" (names and versions) required for vulnerability matching.
 - Virtualization: You managed a dual-VM lab environment using VirtualBox, ensuring connectivity between a Kali Linux attacker and a Metasploitable target.
 - Network Addressing: You mastered the concept of IP/Port notation and the importance of static IP assignment in a virtual network.
@@ -74,7 +74,7 @@ In this project, I engineered an automated cybersecurity orchestration pipeline 
 
 
 
-The output displayed in your final screenshots represents the Execution and Verification phase of the pipeline. At this stage, the "Brain" has moved past raw data processing and is providing a prioritized security posture of the target.
+At this stage, the "Brain" has moved past raw data processing and is providing a prioritized security posture of the target.
 
 
 *Ref 6: ML-Assisted Offensive Security
